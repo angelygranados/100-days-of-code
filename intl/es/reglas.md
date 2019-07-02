@@ -6,7 +6,7 @@
 
 #### Fecha de inicio
 
-25 de junio de 2016. [ponga su nombre aquí]
+02 de julio de 2019 [Angely Granados]
 
 ## Reglas adicionales
 
