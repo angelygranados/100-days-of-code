@@ -6,7 +6,7 @@
 
 **Thoughts:** Today's lessons were easy but I struggle with the rules of naming. Maybe the next lessons will be more challenging. 
 
-
+**Link(s) to work**: [Lessons of the JavaScript Algorithms And Data Structures Certification of freeCodeCamp](https://twitter.com/AngelyGranados/status/1146051134806745088)
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
