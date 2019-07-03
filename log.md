@@ -1,23 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 1: July 02, 2019
+### Day 1: July 02, 2019 - Tuesday
 
 **Today's Progress**: I learned data types in JavaScript, how to assign variables and its rules of naming, and how to assign numeric values to a variable.
 
 **Thoughts:** Today's lessons were easy but I struggle with the rules of naming. Maybe the next lessons will be more challenging. 
 
 **Link(s) to work**: [Lessons of the JavaScript Algorithms And Data Structures Certification of freeCodeCamp](https://twitter.com/AngelyGranados/status/1146051134806745088)
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: July 3, 2019 Wednesday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learned about strings, how to concatenate and constructing Strings with Variables. Also learned about arrays, how to access data with index, modify arrays and manipulate arrays.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I really struggled to understand how to concatenate strings with variables.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Upadate and practice day 2](https://twitter.com/AngelyGranados/status/1146413548295335936)
 
 
-### Day 1: June 27, Monday
+### Day 3: July 24, 2019 Thrusday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
