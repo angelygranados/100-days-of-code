@@ -16,12 +16,12 @@
 **Link(s) to work**: [Upadate and practice day 2](https://twitter.com/AngelyGranados/status/1146413548295335936)
 
 
-### Day 3: July 24, 2019 Thrusday
+### Day 3: July 4, 2019 Thrusday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Today I learned about functions, its parameters and that the local variable takes precedence over the global variable. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I have a sad day, so I don't focus well.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+[Update and practice day 3](https://twitter.com/AngelyGranados/status/1146977206888992768)
+
