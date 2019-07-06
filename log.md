@@ -32,5 +32,14 @@
 **Thoughts** It was a slow day and I did not give much. Keeping trying.
 
 **Link(s) to work**
-[Update and practice day 3](https://twitter.com/AngelyGranados/status/1147302208574304256)
+[Update and practice day 4](https://twitter.com/AngelyGranados/status/1147302208574304256)
+
+### Day 5: July 6, 2019 Saturday
+
+**Today's Progress**: Today I learned about boolean values and conditional logic with If statements.
+
+**Thoughts** I really struggle to manipulate arrays with .push() and .shift()
+
+**Link(s) to work**
+[Update and practice day 5](https://twitter.com/AngelyGranados/status/1147483180833923073)
 
