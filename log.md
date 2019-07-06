@@ -25,3 +25,12 @@
 **Link(s) to work**
 [Update and practice day 3](https://twitter.com/AngelyGranados/status/1146977206888992768)
 
+### Day 4: July 5, 2019 Friday
+
+**Today's Progress**: Today I'd resolve some exercises of freeCodeCamp and study a little about responsive design.
+
+**Thoughts** It was a slow day and I did not give much. Keeping trying.
+
+**Link(s) to work**
+[Update and practice day 3](https://twitter.com/AngelyGranados/status/1147302208574304256)
+
