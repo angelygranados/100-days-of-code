@@ -43,3 +43,12 @@
 **Link(s) to work**
 [Update and practice day 5](https://twitter.com/AngelyGranados/status/1147483180833923073)
 
+### Day 6: July 7, 2019 Sunday
+
+**Today's Progress**: Today I focused on the Responsive design course of Platzi and I learned some things about how to adapt a landing page with media queries. 
+
+**Thoughts** Today I enjoyed studying responsive design, but I would have liked to have moved faster.
+
+**Link(s) to work**
+[Update responsive design course at Platzi](https://twitter.com/AngelyGranados/status/1148058861800218626)
+
