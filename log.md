@@ -52,3 +52,12 @@
 **Link(s) to work**
 [Update responsive design course at Platzi](https://twitter.com/AngelyGranados/status/1148058861800218626)
 
+### Day 7: July 8, 2019 Monday
+
+**Today's Progress**: Today I learned about how it works the comparisons operators in JavaScript, assign positions on CSS and to create icons from fonts.
+
+**Thoughts** Even though it was a busy day, I managed to make a lot of progress in the Responsive design course and with the JavaScript challenges of freeCodeCamp.
+
+**Link(s) to work**
+[What I learn today](https://twitter.com/AngelyGranados/status/1148393146847506433)
+
