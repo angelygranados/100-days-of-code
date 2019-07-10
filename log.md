@@ -61,3 +61,12 @@
 **Link(s) to work**
 [What I learn today](https://twitter.com/AngelyGranados/status/1148393146847506433)
 
+### Day 8: July 9, 2019 Tuesday
+
+**Today's Progress**:  Today I only studied responsive design and I focused on start the develop of my web. 
+
+**Thoughts** Study, study, and never stop to learn.
+
+**Link(s) to work**
+[What I learn today](https://twitter.com/AngelyGranados/status/1148787040126939142)
+
