@@ -70,3 +70,12 @@
 **Link(s) to work**
 [What I learn today](https://twitter.com/AngelyGranados/status/1148787040126939142)
 
+### Day 9: July 10, 2019 Wednesday
+
+**Today's Progress**:  Responsive design, freeCodeCamp lessons and some updates to my personal web.  
+
+**Thoughts** Study, study, and never stop to learn.
+
+**Link(s) to work**
+[What I learn today](https://twitter.com/AngelyGranados/status/1149153389177188352)
+
