@@ -88,3 +88,12 @@
 **Link(s) to work**
 [What I learn today](https://twitter.com/AngelyGranados/status/1149520148656603138)
 
+### Day 11: July 12, 2019 Friday
+
+**Today's Progress**:  Today I finished the course of Responsive Design, learned how to deploy to @zeithq and fixed all the bugs in my project. Also, I started with the course Web animations at Platzi.
+
+**Thoughts** Dedicate all the morning to studying is really productive.
+
+**Link(s) to work**
+[Responsive design project](https://project-1-dlgguh0pz.now.sh/)
+
