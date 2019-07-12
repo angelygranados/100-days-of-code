@@ -79,3 +79,12 @@
 **Link(s) to work**
 [What I learn today](https://twitter.com/AngelyGranados/status/1149153389177188352)
 
+### Day 10: July 11, 2019 Thrusday
+
+**Today's Progress**:  Today I learned about media queries with JavaScript, create static server with node and debugging in Android.
+
+**Thoughts** Study, study, and never stop to learn.
+
+**Link(s) to work**
+[What I learn today](https://twitter.com/AngelyGranados/status/1149520148656603138)
+
