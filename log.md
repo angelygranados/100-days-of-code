@@ -97,7 +97,7 @@
 **Link(s) to work**
 [Responsive design project](https://project-1-dlgguh0pz.now.sh/)
 
-### Day 12: July 13, 2019 Friday
+### Day 12: July 13, 2019 Saturday
 
 **Today's Progress**:  Today I don't study too much, but I learn markdown and organize my notes.
 
@@ -105,3 +105,12 @@
 
 **Link(s) to work**
 [Update day 12](https://twitter.com/AngelyGranados/status/1150241269379207168)
+
+### Day 13: July 14, 2019 Sunday
+
+**Today's Progress**:  Today I learned about transforms with CSS and how to use the properties skew, scale, rotate, translate and trasform-origin. 
+
+**Thoughts** Previously knowledges in descriptive geometric really helped me to understand easily the concepts of transformations. 
+
+**Link(s) to work**
+[Update day 12](https://twitter.com/AngelyGranados/status/1150444686768824326)
