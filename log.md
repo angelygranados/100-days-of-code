@@ -97,3 +97,11 @@
 **Link(s) to work**
 [Responsive design project](https://project-1-dlgguh0pz.now.sh/)
 
+### Day 12: July 13, 2019 Friday
+
+**Today's Progress**:  Today I don't study too much, but I learn markdown and organize my notes.
+
+**Thoughts** Was a good day. 
+
+**Link(s) to work**
+[Update day 12](https://twitter.com/AngelyGranados/status/1150241269379207168)
