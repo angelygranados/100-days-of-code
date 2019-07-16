@@ -113,4 +113,13 @@
 **Thoughts** Previously knowledges in descriptive geometric really helped me to understand easily the concepts of transformations. 
 
 **Link(s) to work**
-[Update day 12](https://twitter.com/AngelyGranados/status/1150444686768824326)
+[Update day 13](https://twitter.com/AngelyGranados/status/1150444686768824326)
+
+### Day 14: July 15, 2019 Monday
+
+**Today's Progress**:  Today I finished the course of Animations web, learned how to optimize the render with the property will-change and used the dev tools.  
+
+**Thoughts** I struggle with the properties for animations. 
+
+**Link(s) to work**
+[Update day 14](https://twitter.com/AngelyGranados/status/1150946019397554176)
