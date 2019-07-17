@@ -123,3 +123,12 @@
 
 **Link(s) to work**
 [Update day 14](https://twitter.com/AngelyGranados/status/1150946019397554176)
+
+### Day 15: July 16, 2019 Monday
+
+**Today's Progress**:  Today I studied a lot of JavaScript, but I had trouble understanding how the promises work and I had to go back and review the basics of the language.
+
+**Thoughts** JavaScript is not that easy as I thinked. 
+
+**Link(s) to work**
+[Update day 15](https://twitter.com/AngelyGranados/status/1151308435927031809)
