@@ -141,3 +141,12 @@
 
 **Link(s) to work**
 [Update day 15](https://twitter.com/AngelyGranados/status/1151642262100684800)
+
+### Day 17: July 18, 2019 Thrusday
+
+**Today's Progress**:  Today I learned to use Math.random and to use te control structures like do while and switch.
+
+**Thoughts** JavaScript is not that easy as I thinked. 
+
+**Link(s) to work**
+[Update day 15](https://twitter.com/AngelyGranados/status/1151922983713280000)
