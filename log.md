@@ -124,7 +124,7 @@
 **Link(s) to work**
 [Update day 14](https://twitter.com/AngelyGranados/status/1150946019397554176)
 
-### Day 15: July 16, 2019 Monday
+### Day 15: July 16, 2019 Tuesday
 
 **Today's Progress**:  Today I studied a lot of JavaScript, but I had trouble understanding how the promises work and I had to go back and review the basics of the language.
 
@@ -132,3 +132,12 @@
 
 **Link(s) to work**
 [Update day 15](https://twitter.com/AngelyGranados/status/1151308435927031809)
+
+### Day 16: July 17, 2019 Wednesday
+
+**Today's Progress**:  Today I learned about control structures and how to use them to condition the execution of a function.
+
+**Thoughts** JavaScript is not that easy as I thinked. 
+
+**Link(s) to work**
+[Update day 15](https://twitter.com/AngelyGranados/status/1151642262100684800)
