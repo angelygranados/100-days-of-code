@@ -150,3 +150,13 @@
 
 **Link(s) to work**
 [Update day 15](https://twitter.com/AngelyGranados/status/1151922983713280000)
+
+### Day 17: July 18, 2019 Thrusday
+
+**Today's Progress**: Today I advanced with the challenges of 
+freeCodeCamp, I learned to use switch and to accessing object properties. Also, I made a function to count cards.
+
+**Thoughts** JavaScript is not that easy as I thinked. 
+
+**Link(s) to work**
+[Update day 15](https://twitter.com/AngelyGranados/status/1152391497381228545)
