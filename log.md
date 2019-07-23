@@ -149,9 +149,9 @@
 **Thoughts** JavaScript is not that easy as I thinked. 
 
 **Link(s) to work**
-[Update day 15](https://twitter.com/AngelyGranados/status/1151922983713280000)
+[Update day 16](https://twitter.com/AngelyGranados/status/1151922983713280000)
 
-### Day 17: July 18, 2019 Thrusday
+### Day 17: July 18, 2019 Friday
 
 **Today's Progress**: Today I advanced with the challenges of 
 freeCodeCamp, I learned to use switch and to accessing object properties. Also, I made a function to count cards.
@@ -159,4 +159,13 @@ freeCodeCamp, I learned to use switch and to accessing object properties. Also, 
 **Thoughts** JavaScript is not that easy as I thinked. 
 
 **Link(s) to work**
-[Update day 15](https://twitter.com/AngelyGranados/status/1152391497381228545)
+[Update day 17](https://twitter.com/AngelyGranados/status/1152391497381228545)
+
+### Day 18: July 22, 2019 Monday
+
+**Today's Progress**: Today I learned about objects, class and prototypes in JavaScript. Also I worked on my website and changed some things. 
+
+**Thoughts** I advance slowly, but keeping going.  
+
+**Link(s) to work**
+[Update day 18](https://twitter.com/AngelyGranados/status/1153466813881167873)
