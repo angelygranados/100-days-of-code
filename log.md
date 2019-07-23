@@ -151,7 +151,7 @@
 **Link(s) to work**
 [Update day 16](https://twitter.com/AngelyGranados/status/1151922983713280000)
 
-### Day 17: July 18, 2019 Friday
+### Day 18: July 19, 2019 Friday
 
 **Today's Progress**: Today I advanced with the challenges of 
 freeCodeCamp, I learned to use switch and to accessing object properties. Also, I made a function to count cards.
@@ -161,7 +161,7 @@ freeCodeCamp, I learned to use switch and to accessing object properties. Also, 
 **Link(s) to work**
 [Update day 17](https://twitter.com/AngelyGranados/status/1152391497381228545)
 
-### Day 18: July 22, 2019 Monday
+### Day 19: July 22, 2019 Monday
 
 **Today's Progress**: Today I learned about objects, class and prototypes in JavaScript. Also I worked on my website and changed some things. 
 
