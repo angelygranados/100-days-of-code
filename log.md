@@ -169,3 +169,12 @@ freeCodeCamp, I learned to use switch and to accessing object properties. Also, 
 
 **Link(s) to work**
 [Update day 18](https://twitter.com/AngelyGranados/status/1153466813881167873)
+
+### Day 20: July 24, 2019 Wednesday
+
+**Today's Progress**: Today I solved some challenges of freeCodeCamp and practiced CSS Grid Layout for my website. 
+
+**Thoughts** I advance slowly, but keeping going.  
+
+**Link(s) to work**
+[Update day 18](https://twitter.com/AngelyGranados/status/1154212873134137344)
