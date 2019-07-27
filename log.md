@@ -140,7 +140,7 @@
 **Thoughts** JavaScript is not that easy as I thinked. 
 
 **Link(s) to work**
-[Update day 15](https://twitter.com/AngelyGranados/status/1151642262100684800)
+[Update day 16](https://twitter.com/AngelyGranados/status/1151642262100684800)
 
 ### Day 17: July 18, 2019 Thrusday
 
@@ -149,7 +149,7 @@
 **Thoughts** JavaScript is not that easy as I thinked. 
 
 **Link(s) to work**
-[Update day 16](https://twitter.com/AngelyGranados/status/1151922983713280000)
+[Update day 17](https://twitter.com/AngelyGranados/status/1151922983713280000)
 
 ### Day 18: July 19, 2019 Friday
 
@@ -159,7 +159,7 @@ freeCodeCamp, I learned to use switch and to accessing object properties. Also, 
 **Thoughts** JavaScript is not that easy as I thinked. 
 
 **Link(s) to work**
-[Update day 17](https://twitter.com/AngelyGranados/status/1152391497381228545)
+[Update day 18](https://twitter.com/AngelyGranados/status/1152391497381228545)
 
 ### Day 19: July 22, 2019 Monday
 
@@ -168,7 +168,7 @@ freeCodeCamp, I learned to use switch and to accessing object properties. Also, 
 **Thoughts** I advance slowly, but keeping going.  
 
 **Link(s) to work**
-[Update day 18](https://twitter.com/AngelyGranados/status/1153466813881167873)
+[Update day 19](https://twitter.com/AngelyGranados/status/1153466813881167873)
 
 ### Day 20: July 24, 2019 Wednesday
 
@@ -177,4 +177,13 @@ freeCodeCamp, I learned to use switch and to accessing object properties. Also, 
 **Thoughts** I advance slowly, but keeping going.  
 
 **Link(s) to work**
-[Update day 18](https://twitter.com/AngelyGranados/status/1154212873134137344)
+[Update day 20](https://twitter.com/AngelyGranados/status/1154212873134137344)
+
+### Day 21: July 26, 2019 Friday
+
+**Today's Progress**: Today I finished Javascript fundamentals course on Platzi, and started with Logic thinking course. 
+
+**Thoughts** I need to move on quickly   
+
+**Link(s) to work**
+[Diploma Javascript fundamentals course](https://platzi.com/@angelygranados/curso/1339-fundamentos-javascript/diploma/detalle/)
