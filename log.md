@@ -187,3 +187,39 @@ freeCodeCamp, I learned to use switch and to accessing object properties. Also, 
 
 **Link(s) to work**
 [Diploma Javascript fundamentals course](https://platzi.com/@angelygranados/curso/1339-fundamentos-javascript/diploma/detalle/)
+
+### Day 22: July 27, 2019 Saturday
+
+**Today's Progress**: Today I continue the logic thinking course and learned about numeric series and diagrams. 
+
+**Thoughts** Keep trying to understand how to use control structures on JS.
+
+**Link(s) to work**
+[Update day 22](https://twitter.com/AngelyGranados/status/1156194185806065664)
+
+### Day 23: July 28, 2019 Sunday
+
+**Today's Progress**: Today I finished Logic thinking course and was a good way to practice logic. 
+
+**Thoughts** Keep moving   
+
+**Link(s) to work**
+[Diploma Logic thinking course](https://platzi.com/@angelygranados/curso/1444-pensamiento-logico/diploma/detalle/)
+
+### Day 24: July 29, 2019 Monday
+
+**Today's Progress**: Today I solved some javascript challenges on freeCodeCamp. I wasn't able to solved all problem alone, but at least the logic I used was correct. I think is an improve. 
+
+**Thoughts** Almost done with the basic module of JavaScript 
+
+**Link(s) to work**
+[Upade day 24](https://twitter.com/AngelyGranados/status/1156196814678306816)
+
+### Day 25: July 30, 2019 Tuesday
+
+**Today's Progress**: Today I finished all challenges of Basic Javascript module on freeCodeCamp. I will continue with the "from jQuery to JS" course at Platzi and with de 2nd module (ES6) in freeCodeCamp.  
+
+**Thoughts** I advanced but I have a lot to learn yet. 
+
+**Link(s) to work**
+[Basic Javascript module freeCodeCamp](https://twitter.com/AngelyGranados/status/1156196814678306816)
