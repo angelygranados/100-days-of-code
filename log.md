@@ -223,3 +223,12 @@ freeCodeCamp, I learned to use switch and to accessing object properties. Also, 
 
 **Link(s) to work**
 [Basic Javascript module freeCodeCamp](https://twitter.com/AngelyGranados/status/1156196814678306816)
+
+### Day 26: August 1, 2019 Thrusday
+
+**Today's Progress**: Today I started with the ES6 lessons and practiced higher order arrow functions. It was challenging, but finally I was able to solved all the problem by my self, just searching some methods that I didn't know. I feel very proud.
+
+**Thoughts** Finally I see progress. YAY 
+
+**Link(s) to work**
+[Higher Order Arrow Functions](https://twitter.com/AngelyGranados/status/1156944994005110784)
