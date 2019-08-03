@@ -232,3 +232,12 @@ freeCodeCamp, I learned to use switch and to accessing object properties. Also, 
 
 **Link(s) to work**
 [Higher Order Arrow Functions](https://twitter.com/AngelyGranados/status/1156944994005110784)
+
+### Day 27: August 2, 2019 Friday
+
+**Today's Progress**: I worked on a landing page for a random quotes generator. I practiced flexbox and some JS interactions. I want to add more functionalities to this page for my portfolio. 
+
+**Thoughts** Finally I see progress. YAY 
+
+**Link(s) to work**
+[Le Petit Prince web](https://le-petit-prince.angelinagranados.now.sh/)
