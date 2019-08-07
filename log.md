@@ -241,3 +241,12 @@ freeCodeCamp, I learned to use switch and to accessing object properties. Also, 
 
 **Link(s) to work**
 [Le Petit Prince web](https://le-petit-prince.angelinagranados.now.sh/)
+
+### Day 28: August 6, 2019 Tuesday
+
+**Today's Progress**: I worked on a function to calculated the weight on differents planets for a section of my web project. 
+
+**Thoughts** Finally I see progress. YAY 
+
+**Link(s) to work**
+[Le Petit Prince web](https://le-petit-prince.angelinagranados.now.sh/)
