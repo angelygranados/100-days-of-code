@@ -250,3 +250,12 @@ freeCodeCamp, I learned to use switch and to accessing object properties. Also, 
 
 **Link(s) to work**
 [Le Petit Prince web](https://le-petit-prince.angelinagranados.now.sh/)
+
+### Day 29: August 23, 2019 Friday
+
+**Today's Progress**: After a long break, today I return to #100DaysOfCodeChallenge. It was not an unproductive pause, during these weeks I learned a lot and worked on very cool projects that I will show you soon. I just couldn't find the time to update my progress in the log.  #ImBack
+
+**Thoughts** Trying to return to normal routine. 
+
+**Link(s) to work**
+[Upadate day 29](https://twitter.com/AngelyGranados/status/1165038080698519557)
