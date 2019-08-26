@@ -259,3 +259,12 @@ freeCodeCamp, I learned to use switch and to accessing object properties. Also, 
 
 **Link(s) to work**
 [Upadate day 29](https://twitter.com/AngelyGranados/status/1165038080698519557)
+
+### Day 30: August 26, 2019 Monday
+
+**Today's Progress**: This is the modal for a website I am working on. It's almost ready, only a few details are missing, but I learned a lot of JS and CSS. I'll share the url of the web soon. #100DaysOfCode
+
+**Thoughts** This website really challenged me, but it's great that I have been capable of finish it. 
+
+**Link(s) to work**
+[Upadate day 30](https://twitter.com/AngelyGranados/status/1166118932060786690)
