@@ -277,3 +277,12 @@ freeCodeCamp, I learned to use switch and to accessing object properties. Also, 
 
 **Link(s) to work**
 [Register landing Platzi Video](https://twitter.com/AngelyGranados/status/1166537165494509569)
+
+### Day 32: August 28, 2019 Wednesday
+
+**Today's Progress**: Today I worked on the responsive design for a personal web. It's a landing where I create a random quote generator and a weigth calculator with javascript. Check it out here https://elprincipito.now.sh/
+
+**Thoughts** I have to progress faster. 
+
+**Link(s) to work**
+[El principito](https://elprincipito.now.sh/)
