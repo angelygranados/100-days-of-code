@@ -268,3 +268,12 @@ freeCodeCamp, I learned to use switch and to accessing object properties. Also, 
 
 **Link(s) to work**
 [Upadate day 30](https://twitter.com/AngelyGranados/status/1166118932060786690)
+
+### Day 31: August 27, 2019 Tuesday
+
+**Today's Progress**: Today I work on various landing pages for the course of frontend developer of Platzi. Here is one of them, basicly I used Grid and Flexbox for create distribution. 
+
+**Thoughts** I have to progress faster. 
+
+**Link(s) to work**
+[Register landing Platzi Video](https://twitter.com/AngelyGranados/status/1166537165494509569)
