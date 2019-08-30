@@ -286,3 +286,16 @@ freeCodeCamp, I learned to use switch and to accessing object properties. Also, 
 
 **Link(s) to work**
 [El principito](https://elprincipito.now.sh/)
+
+### Day 33: August 29, 2019 Thursday
+
+**Today's Progress**: Today I studied a lot (almost 8 hours) and finished the courses that I was take. I feel than now I can understand more how to works Javascript and that feels great.
+
+**Thoughts** I'm on fire!
+
+**Link(s) to work**
+[Update day 33](https://twitter.com/AngelyGranados/status/1167229841575428096)
+Certificados Cursos Aprobados
+[Frontend Developer](https://platzi.com/@angelygranados/curso/1640-frontend-developer/diploma/detalle/)
+[jQuery a JavaScript](https://platzi.com/@angelygranados/curso/1316-jquery-js/diploma/detalle/)
+[Carrera de Arquitectura Frontend](https://platzi.com/@angelygranados/carrera/42-arquitecto/diploma/detalle/)
