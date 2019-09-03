@@ -299,3 +299,21 @@ Certificados Cursos Aprobados
 [Frontend Developer](https://platzi.com/@angelygranados/curso/1640-frontend-developer/diploma/detalle/)
 [jQuery a JavaScript](https://platzi.com/@angelygranados/curso/1316-jquery-js/diploma/detalle/)
 [Carrera de Arquitectura Frontend](https://platzi.com/@angelygranados/carrera/42-arquitecto/diploma/detalle/)
+
+### Day 34: August 30, 2019 Friday
+
+**Today's Progress**: Today I learned more about de reverse, split and join methods and used them on a palindrome checker function.
+
+**Thoughts** I'm on fire!
+
+**Link(s) to work**
+[Update day 34](https://twitter.com/AngelyGranados/status/1167544284272320514)
+
+### Day 35: September 2, 2019 Monday
+
+**Today's Progress**: Today I solved some challenges of freeCodeCamp, organize my work environment and study javascript.
+
+**Thoughts** Bahh!
+
+**Link(s) to work**
+[Update day 35](https://twitter.com/AngelyGranados/status/1168702775741624320)
